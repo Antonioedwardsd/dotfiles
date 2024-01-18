@@ -77,3 +77,6 @@ export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
+sudo /etc/init.d/postgresql start
+export BROWSER="/mnt/c/Program Files (x86)/Google/Chrome/Application/chrome.exe"
+export GH_BROWSER="'/mnt/c/Program Files (x86)/Google/Chrome/Application/chrome.exe'"
